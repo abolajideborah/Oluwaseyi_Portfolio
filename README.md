@@ -1,4 +1,3 @@
-# Oluwaseyi's_Portfolio
 
 *Analytics Portfolio*
 
