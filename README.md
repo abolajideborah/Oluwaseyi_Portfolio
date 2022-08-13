@@ -1,6 +1,6 @@
 # Oluwaseyi's_Portfolio
 
-*italicized text* Analytics Portfolio
+*Analytics Portfolio*
 
 # Project 1: Weather-Part 1
 
@@ -10,9 +10,9 @@ This data analysis project seeks to use the data provided to determine the varia
 
 In **Part 1**, the initial data analysis is conducted to explore the data. This involves the following:
 
-* •	Summary statistics, tables and graphics to investigate the location, distribution and spread of the data and reporting on any unusual observations, possible data entry errors and any outliers, missing values or other inconsistencies and draw appropriate conclusions
+* Summary statistics, tables and graphics to investigate the location, distribution and spread of the data and reporting on any unusual observations, possible data entry errors and any outliers, missing values or other inconsistencies and draw appropriate conclusions
 
-* •	Data preparation: Cleaning the data while maintaining the integrity of the data. Identifying the different data formats, types and structures as well as making sure the data is unbiased and credible. 
+* Data preparation: Cleaning the data while maintaining the integrity of the data. Identifying the different data formats, types and structures as well as making sure the data is unbiased and credible. 
 
 Furthermore, a determination of relationships among the variables in pairs is required, this may be done using scatter plots to determine whether there is a relationship between any two variables so long as one of them is a variable of interest such as Actual Temperature or Apparent Temperature. For example, answering the question, what type of relationship exits between Actual Temperature and Humidity? etc.  
 
