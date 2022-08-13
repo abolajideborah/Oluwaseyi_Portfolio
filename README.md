@@ -1,7 +1,7 @@
 
 *Analytics Portfolio*
 
-# [Project 1a: Weather-Part 1] (https://docs.google.com/document/d/1mm5XcK9la0DiqWUQWuX8ajueLkumFsoWYHQma7MQ_j8/edit?usp=sharing)
+# [Project 1a: Weather-Part 1](https://docs.google.com/document/d/1mm5XcK9la0DiqWUQWuX8ajueLkumFsoWYHQma7MQ_j8/edit?usp=sharing)
 
 ## Introduction to the Consultancy Brief
 
