@@ -1,5 +1,7 @@
 
-*Analytics Portfolio*
+![Analytics Portfolio](https://user-images.githubusercontent.com/93743793/185815312-f2bb18c1-15e8-4180-a3fc-5699a0229993.jpg)]
+
+
 
 # [Project 1a: Weather-Part 1](https://docs.google.com/document/d/1mm5XcK9la0DiqWUQWuX8ajueLkumFsoWYHQma7MQ_j8/edit?usp=sharing)
 
