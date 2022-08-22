@@ -1,4 +1,4 @@
-#Hello World
+# Hello World 
 
 ![Analytics Portfolio](https://user-images.githubusercontent.com/93743793/185815312-f2bb18c1-15e8-4180-a3fc-5699a0229993.jpg)
 
@@ -16,7 +16,11 @@ Proudly Nigerian
 - Currently reading Storytelling with Data by Cole Nussbaumer Knaflic
 
 ---
-##Languages and Tools:
+## Languages and Tools:
+
+![68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667](https://user-images.githubusercontent.com/93743793/185817377-23fd538e-1e57-4b05-80de-5549ee8b08c8.svg)
+
+
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/93743793/185816662-08440c56-bbf6-45db-94b6-51d138a8d8af.svg)
 
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61726b646f776e2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6d61726b646f776e266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/93743793/185816675-ebca6d9a-66f0-401b-a585-9796562227d7.svg)
@@ -31,7 +35,14 @@ Proudly Nigerian
 
 ![images-2](https://user-images.githubusercontent.com/93743793/185816890-8a9b941f-cfce-47b9-aa4e-cbdb098c9604.png)
 
+insert image for Markdown
 
+
+## Other Important Skills
+- User Expereince 
+- Client Relationship Management
+- Project Management 
+- 
 
 # [Project 1a: Weather-Part 1](https://docs.google.com/document/d/1mm5XcK9la0DiqWUQWuX8ajueLkumFsoWYHQma7MQ_j8/edit?usp=sharing)
 
