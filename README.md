@@ -46,8 +46,8 @@ Canva
 
 ---
 Analytics Projects Using R
-- [Descriptive Analysis](https://docs.google.com/document/d/1mm5XcK9la0DiqWUQWuX8ajueLkumFsoWYHQma7MQ_j8/edit?usp=sharing)
-- [Correlation and Regression](https://docs.google.com/document/d/1dq_U_5ndqPRhVzWyqIjbVs9Vy9Z01RiJAyF6cb6Kx0U/edit?usp=sharing)
+- [Descriptive Analysis](https://drive.google.com/file/d/1efv4ztgJ_ed_BigzQp19xpZdrbsI8Yrs/view?usp=sharing)
+- [Correlation and Regression](https://drive.google.com/file/d/1bMcH9Aq-AY1bl9AJyq5KA_ONswIw8d3y/view?usp=sharing)
 - Supervised Learning
 - Unsupervised Learning
 
