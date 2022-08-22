@@ -1,5 +1,35 @@
+#Hello World
 
-![Analytics Portfolio](https://user-images.githubusercontent.com/93743793/185815312-f2bb18c1-15e8-4180-a3fc-5699a0229993.jpg)]
+![Analytics Portfolio](https://user-images.githubusercontent.com/93743793/185815312-f2bb18c1-15e8-4180-a3fc-5699a0229993.jpg)
+
+I am a Woman in Data who really wants to change the world by creating better systems for people and processes. Thankfully, we have data to help with that. I am hoping to connect with more people interested in using data to solve big problems, learning and sharing. 
+
+More about me below:
+- I am a she/her
+-  ![images-3](https://user-images.githubusercontent.com/93743793/185816924-8973da78-63ec-4087-921e-dfc02f26f3bb.png)
+Proudly Nigerian
+- Graduating from Herts with a Masters in Business Analytics and Consultancy (Sept. 2022)
+- Bachelors was in Economics in case you were wondering
+- Currently learning SQL, Python, Tableau, R, French on Duolingo. Always learning actually
+- Job interests: Data Analyst, Data Strategist, Data Consultant or any other fun data-centric roles
+- You can view my resume here and contact me by emailing oluwaseyi.d.abolaji@gmail.com
+- Currently reading Storytelling with Data by Cole Nussbaumer Knaflic
+
+---
+##Languages and Tools:
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/93743793/185816662-08440c56-bbf6-45db-94b6-51d138a8d8af.svg)
+
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61726b646f776e2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6d61726b646f776e266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/93743793/185816675-ebca6d9a-66f0-401b-a585-9796562227d7.svg)
+
+![R_logo svg](https://user-images.githubusercontent.com/93743793/185816854-0a7dde7c-5dc1-4a83-9aaa-ead047a790e3.png)
+
+![python-logo-master-flat-750](https://user-images.githubusercontent.com/93743793/185816857-1293c0c2-ff10-4707-880b-3c123ea12ad3.png)
+
+![images](https://user-images.githubusercontent.com/93743793/185816866-c51a4909-a3ec-437e-8360-556fe122fbdb.png)
+
+![images-4](https://user-images.githubusercontent.com/93743793/185816882-037a8b67-b78b-4746-a0e6-c1a72e2785ee.jpeg)
+
+![images-2](https://user-images.githubusercontent.com/93743793/185816890-8a9b941f-cfce-47b9-aa4e-cbdb098c9604.png)
 
 
 
