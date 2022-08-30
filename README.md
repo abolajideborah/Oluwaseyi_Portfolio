@@ -2,8 +2,7 @@
 
 ![Analytics Portfolio](https://user-images.githubusercontent.com/93743793/185815312-f2bb18c1-15e8-4180-a3fc-5699a0229993.jpg)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwaseyi-abolaji)
 
 I am a Woman in Data who really wants to change the world by creating better systems and processes for people. Thankfully, we have data to help with that. I am hoping to connect with more people interested in using data to solve big problems, learn and share. 
 
