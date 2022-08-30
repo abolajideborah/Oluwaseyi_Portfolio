@@ -17,8 +17,7 @@ More about me below:
 - 📖 Currently reading [Storytelling with Data by Cole Nussbaumer Knaflic](https://www.amazon.co.uk/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)
 
 ---
-# :hammer_and_wrench: Languages and Tools:
-
+# 🛠️ Languages and Tools:
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)![PowerBi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)![MicroSoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)![Github](https://user-images.githubusercontent.com/93743793/185816662-08440c56-bbf6-45db-94b6-51d138a8d8af.svg)![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)![Markdown](https://user-images.githubusercontent.com/93743793/185816675-ebca6d9a-66f0-401b-a585-9796562227d7.svg)
 SQL
 Tableau
