@@ -2,7 +2,7 @@
 
 ![Analytics Portfolio](https://user-images.githubusercontent.com/93743793/185815312-f2bb18c1-15e8-4180-a3fc-5699a0229993.jpg)
 
-I am a Woman in Data who really wants to change the world by creating better systems for people and processes. Thankfully, we have data to help with that. I am hoping to connect with more people interested in using data to solve big problems, learning and sharing. 
+I am a Woman in Data who really wants to change the world by creating better systems and processes for people. Thankfully, we have data to help with that. I am hoping to connect with more people interested in using data to solve big problems, learn and share. 
 
 More about me below:
 - 😊 I am a she/her
@@ -33,7 +33,7 @@ MS Power BI, Excel, Powerpoint
 
 Kaggle
 
-Canva
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 ## Other Important Skills
