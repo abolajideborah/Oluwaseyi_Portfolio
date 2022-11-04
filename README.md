@@ -12,7 +12,7 @@ More about me below:
 - 👩‍🎓 Graduating from [Herts](https://www.herts.ac.uk) with a Masters in Business Analytics and Consultancy (Sept. 2022)
 - 😎 Bachelors was in Economics in case you were wondering
 - 💪 Currently learning Python, [SQL, Tableau](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj3xorAm9n5AhWLN8AKHYFvDJwQFnoECAgQAQ&url=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-data-analytics&usg=AOvVaw2XvP900KPIKu1611eqZ7QH) and R, French on Duolingo. Always learning actually 😤
-- 💼 Job interests: Data Analyst, Data Strategist, Data Consultant or any other fun data-centric roles
+- 💼 Job interests: Data Analyst, Data Strategist, Data Consultant, Technical (Data) Project Manager or any other fun data-centric roles
 - 📬 You can view my [resume here](https://drive.google.com/file/d/18ooDwwpg1fW1kKVnNnfPEH5HIutoOAZe/view?usp=sharing) and contact me by emailing oluwaseyi.d.abolaji@gmail.com
 - 📖 Currently reading [Storytelling with Data by Cole Nussbaumer Knaflic](https://www.amazon.co.uk/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)
 
